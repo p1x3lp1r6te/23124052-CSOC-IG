@@ -34,9 +34,10 @@ Also compared convergence speeds via training time and plotted MSE vs. Epochs.
 
 ## 📁 Contents
 
-- `pure_python.py` – Part 1
-- `numpy_implementation.py` – Part 2
-- `report_LINEAR_REGRESSION.tex` – Final LaTeX report
+- `code.py` – python code for all parts with convergence plots
+- `implementaion_part_1.ipynb` – Part 1
+- `implementaion_part_2_and_part_3.ipynb` – Part 2 and part 3
+- `report_.pdf` – Final LaTeX report
 - `README.md` – This file
 
 ## 📝 Declaration
